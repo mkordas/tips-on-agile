@@ -1,5 +1,8 @@
 ## Work in Progress Limit
 
+>Multitasking is the opportunity to screw up more than one thing at a time.
+>>Unknown
+
 WIP is maximum amount of work items a given phase or the whole workflow can
 hold at once. These phases could be represented by a column or a cell on the
 board.
@@ -41,3 +44,27 @@ http://www.slideshare.net/marcusoftnet/numbers-simulation-a-demonstration-of-lea
 
 ##### Why limiting work in progress makes sense?
 https://www.youtube.com/watch?v=W92wG-HW8gg
+
+
+#### Quotes on Multitasking
+
+>Not everything matters equally, and success isn’t a game won by whoever does the most.
+Yet that is exactly how most play it on a daily basis.
+>>Gary Keller
+
+>Multitasking is a lie
+>>Gary Keller
+
+>If you chase two rabbits, you will catch neither one.
+>>Russian proverb
+
+>When we think we’re multitasking we’re actually multiswitching.
+That is what the brain is very good at doing – quickly diverting its attention
+from one place to the next. We think we’re being productive. We are, indeed,
+being busy. But in reality we’re simply giving ourselves extra work.
+>>Michael Harris
+
+>Multi-tasking is great in the kitchen when you are trying to time the chicken
+to be ready at the same time as the potatoes. But do not assume it is a great
+way to manage a workday.
+>Joanne Tombrakos
