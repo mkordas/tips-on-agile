@@ -26,3 +26,8 @@ Continuously improve
 * experimenting and measuring effectiveness by tracking flow, quality,
   throughput, lead times
 * culture of continuous improvement
+
+>Kanban is not a software development lifecycle methodology or an approach
+to project management. It requires that some process is already in place so that
+Kanban can be applied to incrementally change the underlying process.
+>>David J. Anderson

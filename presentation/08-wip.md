@@ -43,6 +43,11 @@ Two approaches:
 http://www.slideshare.net/marcusoftnet/numbers-simulation-a-demonstration-of-lean-in-action
 
 ##### Why limiting work in progress makes sense?
+
+>As the freeway approaches 100% capacity, it ceases being a freeway.
+It becomes a parking lot.
+>>Jim Benson
+
 https://www.youtube.com/watch?v=W92wG-HW8gg
 
 
