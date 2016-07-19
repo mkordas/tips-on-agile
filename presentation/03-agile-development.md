@@ -8,6 +8,9 @@ Meaning of **adjective** "agile":
 - avoid waste, preserve energy
 - capable of following moving target
 
+Agile is not what you do...
+Agility is how you do it!
+
 #### Methodology?
 
 Agile is not necessarily a methodology...
