@@ -1,3 +1,5 @@
+# The Penny Game
+
 1. Customer: sends the batch of coins to the workers, accepts (by touching) the
 received coins from the last worker
 2. Customer's Boss: Measures the time elapsed time between between sending out
