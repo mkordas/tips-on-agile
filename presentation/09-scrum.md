@@ -47,3 +47,5 @@ Potentially Shippable Product Increment
   * http://www.scrumprimer.org/scrumprimer20.pdf
 * The Scrum Guide
   * http://www.scrumguides.org/docs/scrumguide/v1/scrum-guide-us.pdf
+* Kanban and Scrum – Making the Most of Both
+  * http://www.agileinnovation.eu/wordpress/wp-content/uploads/2010/09/KanbanAndScrum_MakingTheMostOfBoth.pdf
