@@ -29,7 +29,7 @@ http://media.agile42.com/content/Scrum_in_a_nutshell.pdf
 ## Summary
 * Pizza size team
   * 6±2
-  * links in the team: ![](http://images.slideplayer.com/13/3923608/slides/slide_17.jpg)
+  * links in the team: ![](https://latex.artofproblemsolving.com/6/4/f/64f8070867b03b0dc224db7e741135e07f4502c6.png)
 * Team defines process
 * PO must accept every story
 
