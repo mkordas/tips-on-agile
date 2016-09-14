@@ -17,6 +17,7 @@ you can do about it
 ##### Our goals
 - Goal is to prove others that you have skills
 - You choose easy goals
+
 ##### Reactions to failure
 - Being upset, going somewhere else
 - Or ability to learn, failure not being a problem
