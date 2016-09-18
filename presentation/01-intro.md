@@ -9,6 +9,9 @@ About me:
 - bringing feedback loops to the micro-level
 - agile, agile testing, TDD, BDD
 
+What about you?
+- Get to know each other!
+
 Plan:
 - breaks
 - goals
