@@ -1,5 +1,7 @@
 # Definition
 
+## Wikipedia Definition
+
 Agile software development is a set of principles for software
 development in which requirements and solutions evolve through
 collaboration between **self-organizing**, **cross-functional**
@@ -10,3 +12,16 @@ rapid and flexible **response to change**.
 Agile itself has never defined any specific methods to achieve this,
 but many have grown up as a result and have been recognized as being
 agile.
+
+# Why We Do It?
+
+Reasons behind being agile:
+
+* deliver value faster
+ * more value early
+ * less risk
+ * failure is fast
+* embed and control quality
+ * fast feedback
+ * sustainable pace
+ 
