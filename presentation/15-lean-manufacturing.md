@@ -44,6 +44,11 @@ Last point is important. It's not only about fixing the defect,
 but also evaluation and change of process to remove the possibility of making
 the same mistake again.
 
+## Poka-Yoke
+
+Poka-yoke is "mistake-proofing" or “inadvertent error prevention”.
+Sometimes referred as baka-yoke ("idiot-proof").
+
 ## Waste
 
 ### Muda
