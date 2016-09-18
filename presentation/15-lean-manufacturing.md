@@ -25,6 +25,21 @@ Tools:
 * preventive maintenance – flawless running, no defects
 * skill diversification – multi-functional workers
 
+## Autonomantion
+
+Autonomation is automation with a human touch.
+Full automation of everything would mean that all problems are detected and
+corrected without any intervention. This usually is too expensive or impossible.
+
+Human intervention should be needed only when alerted.
+All repetitive work under normal conditions should be automated.
+Thanks to that work becomes much more interesting.
+
+1. Detect the abnormality.
+2. Stop.
+3. Fix or correct the immediate condition.
+4. Investigate the root cause and install a countermeasure.
+
 ## Waste
 
 ### Muda
