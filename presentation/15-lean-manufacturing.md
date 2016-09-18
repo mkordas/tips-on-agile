@@ -49,6 +49,22 @@ the same mistake again.
 Poka-yoke is "mistake-proofing" or “inadvertent error prevention”.
 Sometimes referred as baka-yoke ("idiot-proof").
 
+Examples:
+
+* Clutch needs to be pressed before starting an engine (manual gearbox)
+* Car in "park" or "neutral" before starting an engine (automatic gearbox)
+* Brake pedal depressed when moving from "park" to "drive" (automatic gearbox)
+
+Benefits:
+
+* Less time spent on training workers.
+* Elimination of many operations related to quality control.
+* Unburdening of operators from repetitive operations.
+* Promotion of the work improvement-oriented approach and actions.
+* A reduced number of rejects.
+* Immediate action when a problem occurs.
+* 100% built-in quality control.
+
 ## Waste
 
 ### Muda
