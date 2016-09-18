@@ -2,6 +2,10 @@
 
 Systematic method of eliminating waste based on Toyota Production System.
 
+## House
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/39/Lean_manufactory_house.png)
+
 ## Kaizen
 
 From Japanese "improvement".
