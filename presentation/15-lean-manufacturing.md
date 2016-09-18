@@ -1,4 +1,14 @@
-# Toyota Production System
+# Lean Manufacturing
+
+## Kaizen
+
+From Japanese "improvement".
+
+### PDCA Cycles
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PDCA-Two-Cycles.svg/1024px-PDCA-Two-Cycles.svg.png)
+
+## Waste
 
 "DOWNTIME" (Defective Production, Overproduction, Waiting, Non-used Employee Talent (the 8th form), Transportation, Inventory, Motion, and Excessive (Over) Processing)
 
