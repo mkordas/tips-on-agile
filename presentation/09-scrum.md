@@ -14,6 +14,13 @@ high-performing.
 
 ![](http://www.agilenutshell.com/assets/how-is-agile-different/rolesblur.png)
 
+## Team
+
+> Handoffs are mostly a result of specialization.
+Organization design cannot reduce these handoffs, but it can make them faster
+and cheaper by making them occur inside a single team.
+>> Sriram Naraya
+
 ## In a Nutshell
 
 * product owner creates prioritized backlog
