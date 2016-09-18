@@ -28,3 +28,12 @@ you can do about it
 ##### Attitudes toward others’ successes
 - Competition, others must have more talent than me...
 - Or I can be same as you some day...
+
+### Summmary
+
+ | Fixed Mindset | Agile Mindset
+--- | --- | --- 
+**Ability** | constant | like muscle
+**Challenges** | avoid | take
+**Effort** | for talentless | path to talent
+**Failure** | defines you | information
