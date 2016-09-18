@@ -17,6 +17,8 @@ Agile is not necessarily a methodology...
 
 Agile is more a framework or frame of mind.
 
+Agility is an agreed way of reaching goals.
+
 Real processes and methodologies (methods):
 - XP (Extreme Programming)
 - Scrum
