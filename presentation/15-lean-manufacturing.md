@@ -1,5 +1,7 @@
 # Lean Manufacturing
 
+Systematic method of eliminating waste based on Toyota Production System.
+
 ## Kaizen
 
 From Japanese "improvement".
