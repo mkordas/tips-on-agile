@@ -40,6 +40,10 @@ Thanks to that work becomes much more interesting.
 3. Fix or correct the immediate condition.
 4. Investigate the root cause and install a countermeasure.
 
+Last point is important. It's not only about fixing the defect,
+but also evaluation and change of process to remove the possibility of making
+the same mistake again.
+
 ## Waste
 
 ### Muda
