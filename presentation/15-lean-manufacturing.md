@@ -140,6 +140,16 @@ When more work is done than needed and when components are:
 * too expensive
 * of too high quality
 
+##### 6. Over-production
+
+More things produced than needed by customers.
+
+Caused by production in large batches (waterfall).
+
+Considered as the **worst muda**, as it hides or causes all other wastes, e.g.
+* leads to excessive inventory
+* hides waiting costs
+
 ### Muri
 
 Meaning:
