@@ -162,9 +162,17 @@ Defects are always connected with:
 
 Pure loss!
 
-##### Are There More?
+#### Are There More?
 
 Yes, meet **Tim Woods**!
+
+##### 8. Unused Skills
+
+People are hired to have some certain skillset,
+but they have other skills as well.
+It is waste to not take advantage of all possible skills of each human.
+Especially, creativity of each employee should be used to eliminate all other
+wastes.
 
 #### DOWNTIME
 
