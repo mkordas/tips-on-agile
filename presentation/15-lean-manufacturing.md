@@ -150,6 +150,16 @@ Considered as the **worst muda**, as it hides or causes all other wastes, e.g.
 * leads to excessive inventory
 * hides waiting costs
 
+##### 7. Defects
+
+Defects are always connected with:
+* reworks
+* delays
+* reschedules
+* more time in work-in-progress
+
+Pure loss!
+
 ### Muri
 
 Meaning:
