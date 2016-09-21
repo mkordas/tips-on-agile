@@ -122,6 +122,12 @@ Everything that does not bring value right now:
 * work-in-progress
 * finished products that are waiting
 
+##### 3. Motion
+
+Damage in the workplace caused by process:
+* wear and tear
+* injuries
+
 ### Muri
 
 Meaning:
