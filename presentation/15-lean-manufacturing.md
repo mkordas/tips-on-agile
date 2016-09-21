@@ -79,6 +79,8 @@ Meaning:
 
 No value added for end customer, but it is necessary.
 
+Known as **auxiliary work**.
+
 Usually it is hard to eliminate. For example quality checks at car assembly line
 do not provide direct value to customer, but they are required to fulfil
 safety standards. What really matters to customer is just assembly process
@@ -88,6 +90,15 @@ itself.
 
 No value added for end customer which can and should be eliminated.
 These activities bring hidden costs.
+
+It is **pure waste**.
+
+#### Elimination
+
+Separate value-adding work from muda type I and II:
+* very challenging
+* "learning to see"
+* waste may be identified where it was not seen before
 
 ### Muri
 
