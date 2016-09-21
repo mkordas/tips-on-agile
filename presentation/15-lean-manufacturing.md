@@ -97,8 +97,9 @@ It is **pure waste**.
 
 Separate value-adding work from muda type I and II:
 * very challenging
-* "learning to see"
 * waste may be identified where it was not seen before
+* "learning to see"
+* "trips to Japan"
 
 ### Muri
 
