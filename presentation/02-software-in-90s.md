@@ -23,6 +23,9 @@ Approach to people
 Lightweight
 - assume requirements are unstable
 - change is inevitable
+- software development is very complex discipline
+  - cannot be easily visualized
+  - huge amount of interactions and dependencies
 - people are nonlinear, especially smart ones
   - problems and people are different
   - no strict roles
