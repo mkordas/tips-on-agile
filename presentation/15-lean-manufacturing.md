@@ -103,6 +103,8 @@ Separate value-adding work from muda type I and II:
 
 #### Seven Wastes
 
+Meet **Tim Wood**!
+
 ##### 1. Transportation
 
 Unnecessarily moving products:
@@ -162,7 +164,10 @@ Pure loss!
 
 ##### Are There More?
 
-**DOWNTIME**
+Yes, meet **Tim Woods**!
+
+#### DOWNTIME
+
 * Defective Production
 * Overproduction
 * Waiting
