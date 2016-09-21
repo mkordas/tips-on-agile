@@ -211,3 +211,23 @@ Avoidance:
 
 ### Mura
 
+#### Meaning
+
+* unevenness
+* irregularity
+
+#### Eliminating
+
+Easy way to identify and eliminate Mura is to do frequent deliveries.
+
+Things that help:
+* heijunka
+* kanban
+* multi-process handling
+* cross-functionality
+
+#### Exceptions
+
+Call center:
+* low cost operators waiting for high value clients
+* or losing clients by forcing them to wait
