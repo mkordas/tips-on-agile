@@ -67,6 +67,8 @@ Benefits:
 
 ## Waste
 
+![](http://lean-management.pl/wp-content/uploads/2016/02/Muda-muri-mura.png)
+
 ### Muda
 
 ### Muri
