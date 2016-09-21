@@ -105,6 +105,8 @@ Separate value-adding work from muda type I and II:
 
 Meet **Tim Wood**!
 
+![](http://www.biz-pi.greenedhouseeffect.com/wp-content/uploads/2016/06/TIMWOODS_Slide2.jpg)
+
 ##### 1. Transportation
 
 Unnecessarily moving products:
@@ -165,6 +167,8 @@ Pure loss!
 #### Are There More?
 
 Yes, meet **Tim Woods**!
+
+![](https://pbs.twimg.com/media/B77fsoXIQAAbQnx.jpg)
 
 ##### 8. Unused Skills
 
