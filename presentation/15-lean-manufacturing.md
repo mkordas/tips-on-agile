@@ -71,6 +71,8 @@ Benefits:
 
 ### Muri
 
+![](http://www.panview.nl/sites/default/files/styles/boek/public/Muri.png)
+
 ### Mura
 
 "DOWNTIME" (Defective Production, Overproduction, Waiting, Non-used Employee Talent (the 8th form), Transportation, Inventory, Motion, and Excessive (Over) Processing)
