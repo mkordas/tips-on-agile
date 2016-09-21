@@ -101,6 +101,27 @@ Separate value-adding work from muda type I and II:
 * "learning to see"
 * "trips to Japan"
 
+#### Seven Wastes
+
+##### 1. Transportation
+
+Unnecessarily moving products:
+* damage
+* delay
+* lost
+
+Handoffs between teams:
+* misunderstanding
+* delay (time zones)
+* non-effective communication
+
+##### 2. Inventory
+
+Everything that does not bring value right now:
+* raw materials
+* work-in-progress
+* finished products that are waiting
+
 ### Muri
 
 Meaning:
