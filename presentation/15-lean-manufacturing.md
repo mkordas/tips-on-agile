@@ -128,6 +128,10 @@ Damage in the workplace caused by process:
 * wear and tear
 * injuries
 
+##### 4. Waiting
+
+Whenever item is not being worked-on or transported.
+
 ### Muri
 
 Meaning:
