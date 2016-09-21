@@ -225,6 +225,8 @@ Things that help:
 * kanban
 * multi-process handling
 * cross-functionality
+* predictable inputs, requirements
+* early testing and challenging
 
 #### Exceptions
 
