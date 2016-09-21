@@ -73,7 +73,25 @@ Benefits:
 
 ### Muri
 
+Meaning:
+* overburden
+* unreasonableness
+* beyond someone's power
+
 ![](http://www.panview.nl/sites/default/files/styles/boek/public/Muri.png)
+
+Causes:
+* inappropriate process
+* lack of training, equipment or tools
+* mess
+* poor communication channels
+* unclear information, requirements or instructions
+
+Avoidance:
+* splitting work
+* team expertise
+* definition of done
+* acceptance criteria
 
 ### Mura
 
