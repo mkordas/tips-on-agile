@@ -132,6 +132,14 @@ Damage in the workplace caused by process:
 
 Whenever item is not being worked-on or transported.
 
+##### 5. Over-processing
+
+When more work is done than needed and when components are:
+* too complex
+* too precise
+* too expensive
+* of too high quality
+
 ### Muri
 
 Meaning:
