@@ -2,7 +2,11 @@
 
 **Agile software development is a MAINSTREAM**
 
-Meaning of **adjective** "agile":
+## Meaning
+
+What does "agile" word mean to you?
+
+Word "agile" is an **adjective** meaning:
 - very flexible, attentive
 - fit, lean
 - avoid waste, preserve energy
