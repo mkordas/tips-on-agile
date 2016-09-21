@@ -208,6 +208,11 @@ Avoidance:
 * team expertise
 * definition of done
 * acceptance criteria
+* process
+ * clear
+ * easy
+ * understandable
+ * changes if wrong
 
 ### Mura
 
