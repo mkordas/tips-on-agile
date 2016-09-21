@@ -24,7 +24,7 @@ Lightweight
 - assume requirements are unstable
 - change is inevitable
 - people are nonlinear, especially smart ones
-  - problems, people are different
+  - problems and people are different
   - no strict roles
   - strengths and weaknesses
 
