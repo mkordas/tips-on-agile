@@ -1,12 +1,13 @@
 # Tips for Daily Scrum
 
-* What did I accomplish yesterday? (not what I was doing)
-* What will I complete today? (not what I will be doing)
+Improved version of questions:
+* What did I accomplish yesterday? (not what I was just doing...)
+* What will I complete today? (not what I just will be doing...)
 * What obstacles are impeding my progress?
 
-Keep rules
-- Max 15 min overall, one minute per person
-- Focus on work to be done, not on calendar
+Keep rules:
+- Max 15 min overall, about one minute per person
+- Focus on work to be done, not on your day agenda
 - Assign action to a person for each blocker
 - Same place, same time - blindly or not?
 
