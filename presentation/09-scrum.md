@@ -42,7 +42,8 @@ http://media.agile42.com/content/Scrum_in_a_nutshell.pdf
 
 ## PSPI
 
-Potentially Shippable Product Increment
+Potentially Shippable Product Increment:
+
 * tested
 * well designed
 * well coded
