@@ -1,17 +1,20 @@
 # Tips for Daily Scrum
 
 Improved version of questions:
+
 * What did I accomplish yesterday? (not what I was just doing...)
 * What will I complete today? (not what I just will be doing...)
 * What obstacles are impeding my progress?
 
 Keep rules:
+
 * Max 15 min overall, about one minute per person
 * Focus on work to be done, not on your day agenda
 * Assign action to a person for each blocker
 * Same place, same time - blindly or not?
 
-Experiment
+Experiment:
+
 * Tea standup
 * Do sit*down
 
@@ -23,6 +26,7 @@ Experiment
 standing in your way
 
 Order:
+
 * last speaks first
 * round robin
 * token
@@ -30,7 +34,8 @@ Order:
 
 To start a day or not?
 
-Red flags
+Red flags:
+
 * no focus on story progress
 * reporting to leader
 * people begin late
