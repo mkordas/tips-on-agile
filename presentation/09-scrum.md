@@ -42,6 +42,13 @@ Potentially Shippable Product Increment:
 * well coded
 * documented
 
+## Velocity
+
+* calculated after each iteration
+* only done stories are included
+* used as an input for next iteration
+ * yesterday's weather rule
+
 ## Summary
 * Pizza size team
   * 6±2
