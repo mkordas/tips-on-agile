@@ -49,6 +49,10 @@ Potentially Shippable Product Increment:
 * Team defines process
 * PO must accept every story
 
+## Scrum Checklist
+
+// TODO insert checklist
+
 ## Reading
 
 * Scrum Primer
