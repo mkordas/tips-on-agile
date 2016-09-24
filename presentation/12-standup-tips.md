@@ -6,14 +6,14 @@ Improved version of questions:
 * What obstacles are impeding my progress?
 
 Keep rules:
-- Max 15 min overall, about one minute per person
-- Focus on work to be done, not on your day agenda
-- Assign action to a person for each blocker
-- Same place, same time - blindly or not?
+* Max 15 min overall, about one minute per person
+* Focus on work to be done, not on your day agenda
+* Assign action to a person for each blocker
+* Same place, same time - blindly or not?
 
 Experiment
-- Tea standup
-- Do sit-down
+* Tea standup
+* Do sit*down
 
 > What did I do yesterday? I can’t remember... What am I doing today? No idea...
 
@@ -23,25 +23,25 @@ Experiment
 standing in your way
 
 Order:
-- last speaks first
-- round robin
-- token
-- draw a card
+* last speaks first
+* round robin
+* token
+* draw a card
 
 To start a day or not?
 
 Red flags
-- no focus on story progress
-- reporting to leader
-- people begin late
-- starts a day too late
-- don't remember
-  - walking the board
-  - responsibility
-- too long stories
-  - take it offline
-- problem solving
-  - take it offline
+* no focus on story progress
+* reporting to leader
+* people begin late
+* starts a day too late
+* don't remember
+  * walking the board
+  * responsibility
+* too long stories
+  * take it offline
+* problem solving
+  * take it offline
 
 > If we can’t clearly articulate a plan for what we’ll do today, then perhaps we
 have unclear goals or obstacles in our path. If other people in the group don’t
@@ -49,7 +49,7 @@ find our plan compelling, then perhaps we have misaligned goals or work is
 falling through the cracks.
 >> jbrains.ca
 
-- Is someone stuck?
-- Are urgent tasks actioned?
-- Does everyone know what to do?
-- Is there any waste?
+* Is someone stuck?
+* Are urgent tasks actioned?
+* Does everyone know what to do?
+* Is there any waste?
