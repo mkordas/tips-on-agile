@@ -16,7 +16,7 @@ Keep rules:
 Experiment:
 
 * Tea standup
-* Do sit*down
+* Do sit-down
 
 > What did I do yesterday? I can’t remember... What am I doing today? No idea...
 
@@ -44,7 +44,7 @@ Red flags:
   * walking the board
   * responsibility
 * too long stories
-  * take it offline
+  * "take it offline"
 * problem solving
   * take it offline
 
