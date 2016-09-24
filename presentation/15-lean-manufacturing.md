@@ -240,5 +240,5 @@ Things that help:
 #### Exceptions
 
 Call center:
-* low cost operators waiting for high value clients
-* or losing clients by forcing them to wait
+* low cost operators waiting for high value clients... (waste)
+* or losing clients by forcing them to wait (lost income)
