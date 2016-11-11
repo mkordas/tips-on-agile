@@ -22,8 +22,10 @@ Small activity illustrating pros and cons of working in iterations.
  - measures the time between sending out the first coin and all coins accepted
 3. Workers:
  - one per department
- - each worker receives a batch of coins, flips them using one hand
- and moves the bath to the next worker
+ - task for each worker:
+  - receives a batch of coins
+  - flips them using one hand
+  - move the bath to the next worker
 4. Efficiency experts:
  - one per department
  - measure the time "their" worker spends flipping coins
