@@ -19,8 +19,7 @@ Small activity illustrating pros and cons of working in iterations.
  - accepts (by touching) received coins from the last worker
  - measures time between start and first coin accepted
 2. Boss:
- - measures the time elapsed time between sending out the first coin
- and all coins accepted
+ - measures the time between sending out the first coin and all coins accepted
 3. Workers:
  - one per department
  - each worker receives a batch of coins, flips them using one hand
