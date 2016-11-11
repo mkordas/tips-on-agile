@@ -29,10 +29,10 @@ you can do about it
 - Competition, others must have more talent than me...
 - Or I can be same as you some day...
 
-### Summmary
+### Summary
 
  | Fixed Mindset | Agile Mindset
---- | --- | --- 
+--- | --- | ---
 **Ability** | constant | like muscle
 **Challenges** | avoid | take
 **Effort** | for talentless | path to talent
