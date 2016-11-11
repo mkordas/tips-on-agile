@@ -10,7 +10,7 @@ Small activity illustrating pros and cons of working in iterations.
 - customer
 - boss
 - `N` departments of 2 people
-- `N+2` stopwatches (one per department, one for customer and one for boss)
+- `N+2` stopwatches (one per department, one for a customer and one for a boss)
 
 ### Roles
 
@@ -18,17 +18,17 @@ Small activity illustrating pros and cons of working in iterations.
  - sends the batch of coins to the workers
  - accepts (by touching) received coins from the last worker
  - measures time between start and first coin accepted
-2. Boss: 
+2. Boss:
  - measures the time elapsed time between between sending out the first coin
  and all coins accepted
 3. Workers:
  - one per department
  - each worker receives a batch of coins, flips them using one hand
  and moves the bath to the next worker
-4. Efficiency experts: 
+4. Efficiency experts:
  - one per department
  - measure the time "their" worker spends flipping coins
- 
+
 ### Iteration
 
 1. Each worker flips all pennies using one hand and when done passes to the
