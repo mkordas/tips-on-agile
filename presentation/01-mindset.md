@@ -1,5 +1,11 @@
 # Talent, Ability, Intelligence Myth
 
+### Which is true?
+
+1. Intelligence is something very basic that you can’t change. You are born with it or not. You may learn new things, but you can’t change how intelligent you are.
+
+2. No matter how intelligent you are right now, you can always get better and even improve a lot.
+
 ### Fixed Mindset
 
 - Intelligence is something that you can’t change
