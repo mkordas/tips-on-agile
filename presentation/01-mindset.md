@@ -29,6 +29,15 @@ you can do about it
 - Competition, others must have more talent than me...
 - Or I can be same as you some day...
 
+### How to talk
+
+Fixed Mindset | Agile Mindset
+--- | ---
+How was your day? | What did you learn today?
+You're smart | You've used clever approach
+Did you win? | Did you put your best effort?
+You're great at it | Practice makes you better
+
 ### Summary
 
 --- | Fixed Mindset | Agile Mindset
