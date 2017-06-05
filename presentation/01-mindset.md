@@ -31,7 +31,7 @@ you can do about it
 
 ### Summary
 
- | Fixed Mindset | Agile Mindset
+--- | Fixed Mindset | Agile Mindset
 --- | --- | ---
 **Ability** | constant | like muscle
 **Challenges** | avoid | take
