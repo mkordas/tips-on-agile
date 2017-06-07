@@ -21,8 +21,8 @@ you can do about it
 ### Things determined by a Mindset
 
 ##### Our goals
-- Goal is to prove others that you have skills
-- You choose easy goals
+- Goal is to prove others that you have skills, you choose easy goals
+- You choose hard goals knowing that you may fail
 
 ##### Reactions to failure
 - Being upset, going somewhere else
@@ -30,6 +30,7 @@ you can do about it
 
 ##### Belief about effort and strategies
 - No need to work hard, otherwise I’m not smart
+- Very hard work is necessary all the time
 
 ##### Attitudes toward others’ successes
 - Competition, others must have more talent than me...

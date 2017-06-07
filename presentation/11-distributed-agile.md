@@ -29,6 +29,7 @@ Hierarchy:
 * Face-to-face
 * Video conference
 * Phone conference
+* Instant messaging with history
 * Instant messaging
 * Issue trackers
 * Email

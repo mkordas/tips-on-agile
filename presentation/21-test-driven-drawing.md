@@ -1,9 +1,5 @@
 # Test-Driven Drawing
 
-Small activity illustrating pros and cons of working in iterations.
-
-![](http://3.bp.blogspot.com/_nzj0JxErQqA/SRE2d1wQ-OI/AAAAAAAAALw/62B-OAbhJ4Q/s400/ScrumPennyBatchGame.png)
-
 ### Setup
 
 - teams of 2 or 3, each person with pen
